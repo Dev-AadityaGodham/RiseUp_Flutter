@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Rain In The Night",
+        "time":"10 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/English%2FLesson%201.%20Rain%20In%20The%20Night%2C%20English%20balbharati%20%2C%20maharashtra%20State%20Board%20%20%20student%20point%20academy.mp4?alt=media&token=186195e5-ab57-4546-87d2-d72fbeccfb3a.mp4"
+    },
+    {
+        "title": "Recess",
+        "time":"20 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/English%2FLesson%203.%20Recess%20__%20English%20%20balbharti%20__%20%20Maharashtra%20State%20Board%20__%20student%20point%20academy.mp4?alt=media&token=cc6c6e99-c5e9-4a88-95da-61884574a0df.mp4"
+    },
+    {
+        "title": "Six Honest Serving Men",
+        "time":"42 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/English%2FLesson%205.%20Six%20Honest%20Serving%20Men%2C%20English%20balbharti%2C%20%20%20Maharashtra%20State%20Board%2C%20%20student%20point.mp4?alt=media&token=ac6add90-7ca3-49b5-8ad5-366490da9493"
+    },
+    {
+        "title": "Time for Everything",
+        "time":"43 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/English%2FLesson%209.%20Time%20for%20Everything%2C%20English%20balbharti%2C%20Maharashtra%20State%20Board%2C%20%20student%20point%20academy.mp4?alt=media&token=cc944a2a-7370-4399-854b-971aa1be9290.mp4"
+    }
+    
+]

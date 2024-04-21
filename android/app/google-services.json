@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824889863052",
+    "project_id": "auth-c9a4e",
+    "storage_bucket": "auth-c9a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824889863052:android:15103099f38efb095304a9",
+        "android_client_info": {
+          "package_name": "com.example.log_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIHBJYrIVqJ1brQJaSw2nDFC8wFUcCs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824889863052:android:7c11f5e4cb41ec885304a9",
+        "android_client_info": {
+          "package_name": "com.example.rise_up_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBIHBJYrIVqJ1brQJaSw2nDFC8wFUcCs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

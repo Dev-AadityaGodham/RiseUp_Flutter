@@ -1,0 +1,15 @@
+[
+    {
+        "title": "नृत्य",
+        "time":"10 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/Hindi%2F1.%20%E0%A4%A8%E0%A5%83%E0%A4%A4%E0%A5%8D%E0%A4%AF%20_%204th%20Std%2C%20Nritya%20%F0%9F%98%83_%20Hindi%20Maharashtra%20State%20Board%20Smart%20School%20%F0%9F%98%83.mp4?alt=media&token=c819e54c-3fa9-4578-a528-48400718d6d6.mp4"
+    },
+    {
+        "title": "अभिवादन",
+        "time":"20 seconds",
+        "thumbnail":"assets/images/play_button.jpg",
+        "videoUrl":"https://firebasestorage.googleapis.com/v0/b/auth-c9a4e.appspot.com/o/English%2FLesson%203.%20Recess%20__%20English%20%20balbharti%20__%20%20Maharashtra%20State%20Board%20__%20student%20point%20academy.mp4?alt=media&token=cc6c6e99-c5e9-4a88-95da-61884574a0df.mp4"
+    }
+    
+]

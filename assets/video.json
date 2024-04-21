@@ -1,0 +1,39 @@
+[
+    {
+        "title": "bee.mp4",
+        "time":"10 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4"
+    },
+    {
+        "title": "ForBiggerJoyrides.mp4",
+        "time":"20 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+        "title": "ForBiggerFun.mp4",
+        "time":"42 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4"
+    },
+    {
+        "title": "Chapter4",
+        "time":"43 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title": "ElephantsDream.mp4",
+        "time":"45 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    },
+    {
+        "title": "Chapter6",
+        "time":"45 seconds",
+        "thumbnail":"assets/images/t1.png",
+        "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    }
+    
+]

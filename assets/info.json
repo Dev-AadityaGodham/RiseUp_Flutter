@@ -1,0 +1,28 @@
+[
+    {
+        "title": "Marathi",
+        "img":"assets/images/s1.png"
+    },
+    {
+        "title": "English",
+        "img":"assets/images/s5.png"
+    },
+    {
+        "title": "Science",
+        "img":"assets/images/s3.png"
+    },
+    {
+        "title": "Maths",
+        "img":"assets/images/s4.png"
+    },
+    {
+        "title": "Hindi",
+        "img":"assets/images/s5.png"
+    },
+    {
+        "title": "Drawing",
+        "img":"assets/images/s1.png"
+    }
+    
+
+]
