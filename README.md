@@ -76,7 +76,7 @@
 
   <h2 id="screenshots">Screenshots</h2>
   <p>Below are some screenshots of the app:</p>
-  <img src="assets/screenshots/home.png" alt="Home Screen">
+  <img url="https://drive.google.com/file/d/1d22ajEJ0BMpaO4YYmp2Y5mFXCM4cNLhk/view?usp=sharing" alt="Home Screen">
   <img src="assets/screenshots/dashboard.png" alt="Dashboard Screen">
 
   <h2 id="contributing">Contributing</h2>
