@@ -24,8 +24,6 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 
@@ -56,10 +54,10 @@
   <h2 id="installation">Installation</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/repo-name.git</code></pre>
+      <pre><code>git clone https://github.comDev-AadityaGodham/RiseUp_Flutter.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-      <pre><code>cd repo-name</code></pre>
+      <pre><code>cd RiseUp_Flutter</code></pre>
     </li>
     <li>Install dependencies:
       <pre><code>flutter pub get</code></pre>
