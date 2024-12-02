@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Online Educational Platform</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -145,7 +144,6 @@
     - Sign up as a student or educator.  
     - Explore available courses.  
     - Access video lectures and submit assignments.  
-    - Track your learning progress.
   </p>
 
   <h2 id="screenshots">Screenshots</h2>
@@ -157,28 +155,12 @@
   <p>
     Contributions are welcome! Follow the steps below:  
   </p>
-  <ol>
-    <li>Fork the repository.</li>
-    <li>Create a feature branch:
-      <pre><code>git checkout -b feature-name</code></pre>
-    </li>
-    <li>Commit your changes:
-      <pre><code>git commit -m "Add new feature"</code></pre>
-    </li>
-    <li>Push the changes:
-      <pre><code>git push origin feature-name</code></pre>
-    </li>
-    <li>Open a Pull Request.</li>
-  </ol>
-
-  <h2 id="license">License</h2>
-  <p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
 
   <h2 id="contact">Contact</h2>
   <p>
-    <strong>Aaditya</strong>  
-    <br>Email: <a href="mailto:your-email@example.com">your-email@example.com</a>  
-    <br>GitHub: <a href="https://github.com/your-username">https://github.com/your-username</a>
+    <strong>Aaditya Godham</strong>  
+    <br>Email: <a href="mailto:aadityagodham321@gmil.com">aadityagodham321@gmil.com</a>  
+    <br>GitHub: <a href="https://github.com/Dev-AadityaGodham">https://github.com/Dev-AadityaGodham</a>
   </p>
 
 </div>
