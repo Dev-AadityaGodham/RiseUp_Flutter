@@ -74,11 +74,6 @@
     - Access video lectures and submit assignments.  
   </p>
 
-  <h2 id="screenshots">Screenshots</h2>
-  <p>Below are some screenshots of the app:</p>
-  <img src="https://drive.google.com/file/d/1d22ajEJ0BMpaO4YYmp2Y5mFXCM4cNLhk/view?usp=sharing" alt="Home Screen">
-  <img src="https://drive.google.com/file/d/1d3zCmi8BEYEx2TwKNktgEhYlXDi-vwtS/view?usp=sharing" alt="Dashboard Screen">
-
   <h2 id="contributing">Contributing</h2>
   <p>
     Contributions are welcome! Follow the steps below:  
